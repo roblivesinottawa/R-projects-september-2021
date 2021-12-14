@@ -1,7 +1,4 @@
-LEARNING R README
-============================================================
-
-This R project was created by Barton Poulson for the LinkedIn Learning course "Learning R." This R project contains three folders:
+LEARNING R 
 
 1. CODE
 
