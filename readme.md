@@ -1,4 +1,4 @@
-LEARNING R 
+LEARNING R
 
 1. CODE
 
